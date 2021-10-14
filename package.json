@@ -1,0 +1,29 @@
+{
+  "name": "simple-isint",
+  "version": "1.0.0",
+  "description": "Bu bir deneme paketidir.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "omer": "echo 'Benim adım Ömer DÖNMEZ'",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "Deneme",
+    "Test"
+  ],
+  "author": "Ömer DÖNMEZ",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^6.0.10",
+    "mongose": "0.0.2-security",
+    "simple-is": "^0.2.0"
+  },
+  "devDependencies": {
+    "nodemailer": "^6.7.0"
+  },
+  "repository": {
+    "type": "git",
+    "url":"https://github.com/dnmzmr/dnmzmr.git"
+  }
+}
